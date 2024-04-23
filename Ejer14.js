@@ -1,7 +1,7 @@
 //- Crear una funcion que reciba 3 parametros: minimo, maximo y divisor. Devolver una lista con los divisores del numero ingresado.
 
 const minimo = 1;
-const maximo = 40;
+const maximo = 50;
 const divisor = 2;
 const resultado = obtenerDivisores(minimo, maximo, divisor);
 console.log("Divisores de", divisor, "en el rango de", minimo, "a", maximo, ":", resultado);
